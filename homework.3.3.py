@@ -52,3 +52,5 @@ def main(page: ft.Page):
     page.add(button_elevated)
 
 ft.app(target=main, view=ft.WEB_BROWSER)
+
+
